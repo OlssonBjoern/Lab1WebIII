@@ -13,4 +13,4 @@ _Laborationen är till för att ge en inledande utbildning i hur versionshanteri
  * Github
  * Internet
 
-Repositoriet kan hittas här: [link] (https://github.com/OlssonBjoern/Lab1WebIII)
+Repositoriet kan hittas här: https://github.com/OlssonBjoern/Lab1WebIII
