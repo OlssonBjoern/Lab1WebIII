@@ -7,11 +7,13 @@ Genom föreläsningen samt Githubs hemsida har information hämtats för att kla
 
 ---
 
-## Utrustning  
+## De kommandon som användes var  
 
- * Dator
- * Föreläsning
- * Github
- * Internet
+ * git init
+ * git status
+ * git add .
+ * git commit -m "Meddelande"
+ * git remote add origin https://github.com/OlssonBjoern/Lab1WebIII.git
+ * git push origin master, för att uppdatera repositoriet
 
 Repositoriet kan hittas här: https://github.com/OlssonBjoern/Lab1WebIII
